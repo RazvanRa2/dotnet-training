@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab4 - Stacks and Extending Classes\\lab3 - LinkedList.csproj",
-      "projectName": "lab3 - LinkedList",
-      "projectPath": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab4 - Stacks and Extending Classes\\lab3 - LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab5 - hashtables\\lab5 - hashtables.csproj",
+      "projectName": "lab5 - hashtables",
+      "projectPath": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab5 - hashtables\\lab5 - hashtables.csproj",
       "packagesPath": "C:\\Users\\a-rarad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab4 - Stacks and Extending Classes\\obj\\",
+      "outputPath": "C:\\Users\\a-rarad\\Desktop\\workspace\\dotnet-training\\lab5 - hashtables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
