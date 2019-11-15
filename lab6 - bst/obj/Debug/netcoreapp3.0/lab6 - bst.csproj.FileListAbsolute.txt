@@ -1,0 +1,11 @@
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.exe
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.deps.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.runtimeconfig.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.runtimeconfig.dev.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\bin\Debug\netcoreapp3.0\lab6 - bst.pdb
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\obj\Debug\netcoreapp3.0\lab6 - bst.csprojAssemblyReference.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\obj\Debug\netcoreapp3.0\lab6 - bst.AssemblyInfoInputs.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\obj\Debug\netcoreapp3.0\lab6 - bst.AssemblyInfo.cs
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\obj\Debug\netcoreapp3.0\lab6 - bst.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab6 - bst\obj\Debug\netcoreapp3.0\lab6 - bst.pdb
