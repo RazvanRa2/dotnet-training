@@ -1,0 +1,10 @@
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\bin\Debug\netcoreapp2.1\lab5 - hashtables.deps.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\bin\Debug\netcoreapp2.1\lab5 - hashtables.runtimeconfig.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\bin\Debug\netcoreapp2.1\lab5 - hashtables.runtimeconfig.dev.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\bin\Debug\netcoreapp2.1\lab5 - hashtables.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\bin\Debug\netcoreapp2.1\lab5 - hashtables.pdb
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\obj\Debug\netcoreapp2.1\lab5 - hashtables.csprojAssemblyReference.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\obj\Debug\netcoreapp2.1\lab5 - hashtables.AssemblyInfoInputs.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\obj\Debug\netcoreapp2.1\lab5 - hashtables.AssemblyInfo.cs
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\obj\Debug\netcoreapp2.1\lab5 - hashtables.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab5 - hashtables\obj\Debug\netcoreapp2.1\lab5 - hashtables.pdb
