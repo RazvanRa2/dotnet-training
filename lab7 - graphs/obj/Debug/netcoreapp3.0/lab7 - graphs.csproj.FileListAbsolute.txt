@@ -1,0 +1,11 @@
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\obj\Debug\netcoreapp3.0\lab7 - graphs.csprojAssemblyReference.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\obj\Debug\netcoreapp3.0\lab7 - graphs.AssemblyInfoInputs.cache
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\obj\Debug\netcoreapp3.0\lab7 - graphs.AssemblyInfo.cs
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.exe
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.deps.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.runtimeconfig.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.runtimeconfig.dev.json
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\bin\Debug\netcoreapp3.0\lab7 - graphs.pdb
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\obj\Debug\netcoreapp3.0\lab7 - graphs.dll
+C:\Users\a-rarad\source\repos\dotnet-training\lab7 - graphs\obj\Debug\netcoreapp3.0\lab7 - graphs.pdb
