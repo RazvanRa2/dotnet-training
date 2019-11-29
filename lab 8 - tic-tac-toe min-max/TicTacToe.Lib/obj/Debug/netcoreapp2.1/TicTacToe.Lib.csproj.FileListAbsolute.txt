@@ -1,0 +1,9 @@
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\bin\Debug\netcoreapp2.1\tictactoe.deps.json
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\bin\Debug\netcoreapp2.1\tictactoe.dll
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\bin\Debug\netcoreapp2.1\tictactoe.pdb
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\TicTacToe.Lib.csprojAssemblyReference.cache
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\TicTacToe.Lib.csproj.CoreCompileInputs.cache
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\TicTacToe.Lib.AssemblyInfoInputs.cache
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\TicTacToe.Lib.AssemblyInfo.cs
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\tictactoe.dll
+C:\Users\a-rarad\Desktop\tic-tac-toe-master\TicTacToe.Lib\obj\Debug\netcoreapp2.1\tictactoe.pdb
